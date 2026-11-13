@@ -1,0 +1,4 @@
+interface:
+  display_name: "独立審査と記録"
+  short_description: "設計成果物を作成者と別の目で独立審査し、判定・差し戻し・再審査を記録する"
+  default_prompt: "$independent-review を使って、この設計成果物を作成者と分離した入力で独立審査し、判定と指摘、解消条件を記録様式に沿って返して。"
