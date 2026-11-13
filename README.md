@@ -45,7 +45,8 @@ Codex で、対象と希望する範囲を添えて依頼します。
 ## 内容
 
 - `skills/concept-driven-ux/SKILL.md` — スキルの入口と手順
-- `skills/concept-driven-ux/references/` — 既存体験の評価、全体のバランス、独立審査、記録のガイド
+- `skills/concept-driven-ux/references/` — 既存体験の評価、独立審査、記録のガイド
+- `skills/experience-balance/` — 全体のバランスとテンションカーブを審査する独立スキル（concept-driven-ux と連携）
 - `docs/manual-snapshot.md` — 設計マニュアルの保存版（スキル本体とは分けた由来資料）
 - `skills/concept-driven-ux/agents/openai.yaml` — Codex 向け表示情報
 - `evaluations/` — 架空の入力による回帰評価の手順と判定条件
